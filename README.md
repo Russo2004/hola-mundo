@@ -2,12 +2,10 @@
 
 mi primer repositorio en Github
 
-i love :icecream:, :pizza:, :dog:,
+a mi me gusta el :icecream:, :pizza:, :hamburger:,
 
-i love :star:, :book:, :moon:,
+paso mucho tiempo en una :computer:, :iphone:,
 
 mi ultima linea en mi repositorio
-
-nueva actividad
 
 finalizando con github
